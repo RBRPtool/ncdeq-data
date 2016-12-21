@@ -44,7 +44,7 @@
 	"chartType": "BASELINE",
 	"chartLabel": "2 year peak",
 	"chartLevel": "3",
-	"chartId": "8",
+	"chartId": "11",
 	"chartMatchId": "2"
 }, {
 	"fieldName": "q10yr_base_norm",
@@ -52,7 +52,7 @@
 	"chartType": "BASELINE",
 	"chartLabel": "10 year peak",
 	"chartLevel": "3",
-	"chartId": "9",
+	"chartId": "10",
 	"chartMatchId": "2"
 },{
 	"fieldName": "q50yr_base_norm",
@@ -60,7 +60,7 @@
 	"chartType": "BASELINE",
 	"chartLabel": "50 year peak",
 	"chartLevel": "3",
-	"chartId": "10",
+	"chartId": "9",
 	"chartMatchId": "2"
 }, {
 	"fieldName": "q100yr_base_norm",
@@ -68,10 +68,10 @@
 	"chartType": "BASELINE",
 	"chartLabel": "100 year peak",
 	"chartLevel": "3",
-	"chartId": "11",
+	"chartId": "8",
 	"chartMatchId": "2"
 }, {
-	"fieldName": "Hydro_base_norm",
+	"fieldName": "MeanLikelihood_norm",
 	"chartDescription": "Total likelhood that key sepeciecs exists",
 	"chartType": "BASELINE",
 	"chartLabel": "Habitat Likelhood",
@@ -85,7 +85,7 @@
 	"chartLabel": "Nitrogen",
 	"chartLevel": "3",
 	"chartId": "6",
-	"chartMatchId": "2"
+	"chartMatchId": "3"
 }, {
 	"fieldName": "P_total_base_norm",
 	"chartDescription": "Phosphorus Baseline",
@@ -93,14 +93,14 @@
 	"chartLabel": "Phosphorus",
 	"chartLevel": "3",
 	"chartId": "5",
-	"chartMatchId": "2"
+	"chartMatchId": "3"
 }, {
 	"fieldName": "WQ_base_norm",
 	"chartDescription": "Total Water Quality Baseline",
 	"chartType": "BASELINE",
 	"chartLabel": "Water Quality",
 	"chartLevel": "2",
-	"chartId": "2",
+	"chartId": "3",
 	"chartMatchId": "1"
 }, {
 	"fieldName": "Hydro_base_norm",
@@ -108,10 +108,10 @@
 	"chartType": "BASELINE",
 	"chartLabel": "Hydrology",
 	"chartLevel": "2",
-	"chartId": "3",
+	"chartId": "2",
 	"chartMatchId": "1"
 }, {
-	"fieldName": "cc",
+	"fieldName": "Hab_base_norm",
 	"chartDescription": "Total Habitat Baseline",
 	"chartType": "BASELINE",
 	"chartLabel": "Habitat",
